@@ -1,0 +1,4 @@
+Ankit 80 80 80
+Gauri 50 70 50
+Farhan 50 50 50
+Della 98 93 99
